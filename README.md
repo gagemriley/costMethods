@@ -1,4 +1,4 @@
-## Cost Methods
+# Cost Methods
 
 #### [Screenshots](https://photos.app.goo.gl/daN3zHVHaHKHcH6Y8)
 
