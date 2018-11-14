@@ -1,0 +1,8 @@
+costMethods – TestPlan
+
+For this program I need to test my textboxes, calculate button, and processing/output. I start with the textboxes by making sure I receive message boxes telling the user there has been an error if they have entered non-numeric data into a text box that accepts numeric data. I test each textbox for car 1 and car 2. After I conclude that my validation is working correctly I move onto the calculate button. By entering various data in the text boxes and clicking calculate I determine that the button is working correctly as it responds with outputting data into the labels. I next test to make sure my output/processing are correct by making sure the correct data is outputted according to what is entered in the textboxes. With the right output displaying I determine that my methods are calculating and outputting correctly and the program is working as intended.
+
+GAGE RILEY
+11/20/2017
+CISS 160
+

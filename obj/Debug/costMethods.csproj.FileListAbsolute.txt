@@ -1,0 +1,9 @@
+C:\Users\gagem\Desktop\costMethods\bin\Debug\costMethods.exe.config
+C:\Users\gagem\Desktop\costMethods\bin\Debug\costMethods.exe
+C:\Users\gagem\Desktop\costMethods\bin\Debug\costMethods.pdb
+C:\Users\gagem\Desktop\costMethods\obj\Debug\costMethods.Form1.resources
+C:\Users\gagem\Desktop\costMethods\obj\Debug\costMethods.Properties.Resources.resources
+C:\Users\gagem\Desktop\costMethods\obj\Debug\costMethods.csproj.GenerateResource.Cache
+C:\Users\gagem\Desktop\costMethods\obj\Debug\costMethods.exe
+C:\Users\gagem\Desktop\costMethods\obj\Debug\costMethods.pdb
+C:\Users\gagem\Desktop\costMethods\obj\Debug\costMethods.csprojResolveAssemblyReference.cache
